@@ -9,12 +9,15 @@ I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 - I am starting with coding now in 2024
 - 🌱 I’m currently learning...
 
-### You can also find and contact me at Linkedin
-[This is my LinkedIn Profile](https://www.linkedin.com/in/ole-backhaus/)
-
+### You can also find and contact me at Linkedin: [Link to LinkedIn](https://www.linkedin.com/in/ole-backhaus/)
+  
+---
+  
+You are the  
+  
 ![Visitor Count](https://profile-counter.glitch.me/OBackh/count.svg)
 <!--Counter from: [https://visitor-badge.glitch.me/#docs](https://x.com/ryanlanciaux/status/1283755637126705152)-->
-
+Visitor on my README.md
 <!--
 **OBackh/OBackH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
