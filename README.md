@@ -12,7 +12,7 @@ I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 ### You can also find and contact me at Linkedin
 [This is my LinkedIn Profile](https://www.linkedin.com/in/ole-backhaus/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OBackh.README.md&left_color=green&right_color=red)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=OBackh.OBackH&left_color=green&right_color=red)
 
 <!--Counter from: https://visitor-badge.glitch.me/#docs-->
 
