@@ -7,6 +7,7 @@ I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 - I live near Hamburg
 - I am male
 - I am starting with coding now in 2024
+- 🌱 I’m currently learning...
 
 ### You can also find and contact me at Linkedin
 [This is my LinkedIn Profile](https://www.linkedin.com/in/ole-backhaus/)
