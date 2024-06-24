@@ -12,9 +12,8 @@ I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 ### You can also find and contact me at Linkedin
 [This is my LinkedIn Profile](https://www.linkedin.com/in/ole-backhaus/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OBackh.OBackH&left_color=green&right_color=red)
-
-<!--Counter from: https://visitor-badge.glitch.me/#docs-->
+![Visitor Count](https://profile-counter.glitch.me/OBackh/count.svg)
+<!--Counter from: [https://visitor-badge.glitch.me/#docs](https://x.com/ryanlanciaux/status/1283755637126705152)-->
 
 <!--
 **OBackh/OBackH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
