@@ -2,17 +2,17 @@
 
 I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 
-![Thats me](https://media.licdn.com/dms/image/C4D03AQHWt-TV3LYfnA/profile-displayphoto-shrink_200_200/0/1554747820716?e=1724889600&v=beta&t=AE9pyccfevXXwyr4DrzZOvgzOLVB8E-QJwtmiTHUji0)
+<img src="https://www.pngkit.com/png/detail/799-7998601_profile-placeholder-person-icon.png" width="140" height="120">
 
 - I live near Hamburg
 - I am male
 - I am starting with coding now in 2024
 - 🌱 I’m currently learning...
 
-### You can also find and contact me at Linkedin: [Link to LinkedIn](https://www.linkedin.com/in/ole-backhaus/)
-![Mein Linkedin Profil] (https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png)
+### You can also find and contact me at:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" width="30" height="30">](https://www.linkedin.com/in/ole-backhaus/)
+[<img src="https://www.jobboardfinder.com/news/wp-content/uploads/2017/12/xing-icon.png" width="30" height="30">](https://www.xing.com/profile/Ole_Backhaus/web_profiles)
 
 ---
   
