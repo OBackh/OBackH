@@ -10,7 +10,10 @@ I am Ole and i am an Web-Development Student at NeueFische GmbH from Hamburg.
 - 🌱 I’m currently learning...
 
 ### You can also find and contact me at Linkedin: [Link to LinkedIn](https://www.linkedin.com/in/ole-backhaus/)
-  
+![Mein Linkedin Profil] (https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" width="30" height="30">](https://www.linkedin.com/in/ole-backhaus/)
+
 ---
   
 You are the  
